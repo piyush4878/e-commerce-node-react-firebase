@@ -1,9 +1,17 @@
-# Getting Started with Create React App
+# Amazon Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React is a declarative, efficient, and flexible JavaScript library for building user interfaces.
 
-## Available Scripts
-![383133](https://user-images.githubusercontent.com/80036366/188591203-63b48ca2-c55b-41db-8d9b-a6135e9fa8fa.jpg)
+Frontend - HTML, CSS,Material UI , React.js
+Database - Firebase.
+Role & Responsibility - Creating responsive design,creating REST APIs, Integration of REST APIs with React.js.
+
+### Visit Project here : https://clone-90907.web.app/
+
+## Project Preview :
+![Capture](https://user-images.githubusercontent.com/80036366/188593508-d5426a92-a0cf-4974-a2c2-4aabee15140c.JPG)
+
+
 
 In the project directory, you can run:
 
