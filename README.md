@@ -6,7 +6,7 @@ Frontend - HTML, CSS,Material UI , React.js
 Database - Firebase.
 Role & Responsibility - Creating responsive design,creating REST APIs, Integration of REST APIs with React.js.
 
-### Visit Project here : https://clone-90907.web.app/
+### Visit Project here : shopnship-e749f.web.app/
 
 ## Project Preview :
 ![Capture](https://user-images.githubusercontent.com/80036366/188593508-d5426a92-a0cf-4974-a2c2-4aabee15140c.JPG)
