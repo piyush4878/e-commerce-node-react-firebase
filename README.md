@@ -22,7 +22,7 @@ Demonstrated a keen eye for design and user interface, creating intuitive front-
 
 - **Intuitive Front-end Interfaces 💻**: Dive into the world of intuitive front-end interfaces, designed with precision using HTML, CSS, JavaScript, Material UI, and React.js. Navigate effortlessly and engage with our user-friendly layouts!
 
-- **Secure User Authentication 🔐**: Elevate your shopping experience with Firebase Authentication, ensuring the security of your personal information while providing a personalized touch.
+- **Secure User Authentication 🔐**: Elevate your shopping experience with Firebase Authentication, ensuring the security of your personal information while providing a personalized touch. Easy password reset and change your password.
 
 
 ## License
